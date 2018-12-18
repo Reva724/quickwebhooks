@@ -59,7 +59,7 @@ channel = The channel to search/create the webhook in.
 webhook = The webhook to search for (use the webhook's name)
 options:
 
-**__If sending a simple test message:__**
+**__If sending a simple text message:__**
 ```
   options.username = username override for the webhook
   options.avatar = avatar override for the webhook
