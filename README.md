@@ -1,3 +1,6 @@
+# DISCLAIMER
+This package is no longer maintained, and will probably not work. You're free to edit and redistribute anything included in this project. If you'd like to contribute, please contact me on Discord @ Maxson#1029.
+
 # quickwebhooks
 This will allow you to:
 - Create webhooks
