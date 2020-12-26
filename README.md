@@ -8,16 +8,9 @@ This will allow you to:
 - Edit Webhooks
 
 ### Requirements:
-- discord.js (preferably master, but not required)
+- discord.js (11.4.2)
 - Node +8 (can be lower, but I wouldn't take the chance)
 - Patience
-
-
-#### NOTE FROM THE DEVELOPER:
-Anyone is free to edit the source code (and make it better if they so choose). 
-
-
-
 
 
 # Documentation:
